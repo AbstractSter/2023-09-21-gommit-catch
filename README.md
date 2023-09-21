@@ -1,2 +1,3 @@
 # 2023-09-21-commit-catch
-Git Commit Catch
+Japanese Kitchen Knives
+[Guide to Japanese Kitchen Knives](https://en.wikipedia.org/wiki/Japanese_kitchen_knife)
