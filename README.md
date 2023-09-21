@@ -10,7 +10,7 @@
 
   - The most common shape is an octagon which is made with a slight taper towards the blade. Another common shape is the d shape, which is an oval handle with a ridge running along the same side as the edge bevel (right side of handle for a right handed knife). A chef that prefers a knife with more weight in the blade, their knife to be lighter overall, to have a larger handle, or one who wants to replace their knife handle more easily, will often turn to a Japanese handle.[3]
 
-  # Attributes
+  ## Attributes
   
   - [Top Selling Japanese Knives](https://japanesechefsknife.com/)
   - [Wikipedia Article](https://en.wikipedia.org/wiki/Japanese_kitchen_knife)
