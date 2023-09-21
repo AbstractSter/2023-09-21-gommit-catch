@@ -1,6 +1,4 @@
 # 2023-09-21-commit-catch
-[Japanese Kitchen Knife Guide](https://en.wikipedia.org/wiki/Japanese_kitchen_knife)
-
 # Japanese Kitchen Knives
 
 **A Japanese kitchen knife** is a type of a knife used for food preparation. These knives come in many different varieties and are often made using traditional Japanese blacksmithing techniques. They can be made from stainless steel, or hagane, which is the same kind of steel used to make Japanese swords.[1] Most knives are referred to as hōchō (Japanese: 包丁/庖丁) or the variation -bōchō in compound words (because of rendaku) but can have other names including -kiri (〜切り, lit. "-cutter"). There are four general categories used to distinguish the [Japanese knife](https://japanesechefsknife.com/) designs: handle (Western vs. Japanese), blade grind (single bevel vs. double bevel), steel (stainless vs. carbon), and construction (laminated vs. monosteel).
@@ -15,3 +13,4 @@
   # Attributes
   
   - [Top Selling Japanese Knives](https://japanesechefsknife.com/)
+  - [Wikipedia Article](https://en.wikipedia.org/wiki/Japanese_kitchen_knife)
